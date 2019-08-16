@@ -1,0 +1,11 @@
+body {
+  font-family: 'Noto Serif JP', serif;
+  font-family: 'Rock Salt', cursive;
+}
+
+header {
+  margin-top: -0.5rem;
+  font-size: 2rem;
+  font-weight: 900;
+}
+
