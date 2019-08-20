@@ -3,9 +3,24 @@ body {
   font-family: 'Rock Salt', cursive;
 }
 
+a:link, a:visited {
+  color: black;
+}
+
+
 header {
   margin-top: -0.5rem;
   font-size: 2rem;
   font-weight: 900;
 }
 
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 10px;
+    font-family: 'Noto Serif JP', serif;
+}
+
+footer p {
+    margin: 0px;
+}
